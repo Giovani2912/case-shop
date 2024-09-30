@@ -14,17 +14,46 @@
 
 ## Features
 
-- 💻 User performs the image upload (drag and drop or select file)
+- User performs the image upload (drag and drop or select file)
 - User set the image crop on your case model
+- Payment session with Stripe
 
 
 ## Presentention
 
 ### Home page
-<img src="public/readme-imgs/home.png" alt="cart" width="300">
-<img src="public/readme-imgs/home-2.png" alt="cart" width="300">
-<img src="public/readme-imgs/home-3.png" alt="cart" width="300">
-<img src="public/readme-imgs/home-4.png" alt="cart" width="300">
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="public/readme-imgs/home.png" alt="cart" width="300" style="margin: 10px;">
+    <img src="public/readme-imgs/home-2.png" alt="cart" width="300" style="margin: 10px;">
+    <img src="public/readme-imgs/home-3.png" alt="cart" width="300" style="margin: 10px;">
+    <img src="public/readme-imgs/home-4.png" alt="cart" width="300" style="margin: 10px;">
+</div>
 
 
-### Landing Page
+---
+
+
+### Login and Register Page
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="public/readme-imgs/login.png" alt="cart" width="300" style="margin: 10px;">
+    <img src="public/readme-imgs/register.png" alt="cart" width="300" style="margin: 10px;">
+</div>
+
+
+---
+
+
+### Upload image Page
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="public/readme-imgs/upload.png" alt="cart" width="300" style="margin: 10px;">
+    <img src="public/readme-imgs/uploaded.png" alt="cart" width="300" style="margin: 10px;">
+</div>
+
+
+---
+
+
+### Preview Case Page
+<img src="public/readme-imgs/preview.png" alt="cart" width="300" style="margin: 10px;">
+
